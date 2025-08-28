@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>App Love</h1>
+      <h1>App Love - Lucas + Giovana</h1>
       <div className="">
         <p>
           Em breve, rs
