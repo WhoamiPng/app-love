@@ -1,4 +1,5 @@
 import './App.css'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 function App() {
 
@@ -13,5 +14,5 @@ function App() {
     </>
   )
 }
-
+<SpeedInsights />
 export default App
